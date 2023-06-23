@@ -11,11 +11,11 @@ I'm Ahmet, a Civil Engineer with a passion for iOS development. Welcome to my Gi
 
 ## GitHub Stats
 
-![Ahmets's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkgunAhmet&theme=dark&show_icons=true) 
+![Ahmets's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akgunahmet&theme=dark&show_icons=true) 
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkgunAhmet&layout=compact&theme=dark) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akgunahmet&layout=compact&theme=dark) 
 
 ## Projects
 

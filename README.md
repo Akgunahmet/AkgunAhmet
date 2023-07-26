@@ -22,6 +22,7 @@ I'm Ahmet, a Civil Engineer with a passion for iOS development. Welcome to my Gi
 Here are some of my notable projects:
 
 - [NewsCast App](https://github.com/Akgunahmet/NewsCast): This project is developed in Swift language to build a news application using the NYTimes API. The application retrieves news articles from NYTimes and displays them to the users.
+- [Podcast App](https://github.com/Akgunahmet/AhmetAkgun_HW4): I developed this project using the Swift language to create a music application, utilizing the iTunes API. The application provides users with the ability to browse and listen to songs and albums from the iTunes database. 
 
 
 Feel free to explore my repositories for more projects and contributions!
